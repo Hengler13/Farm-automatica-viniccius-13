@@ -1,19 +1,19 @@
 body{
     background: black;
-    color: white;
+    color: red;
     margin: 0px;
     margin-bottom: 100px;
     font-family: "Itim", cursive;
 }
 .chamada{
-    background: rgb(213, 124, 218);
+    background: rgb(182, 0, 0);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
 }
 header{
-    color: blueviolet;
+    color: rgb(38, 0, 100);
     font-size: 40px;
     margin-bottom: 3px;
     padding: 20px;
@@ -29,7 +29,7 @@ h1{
     padding-left: 20px;
     margin-top: 50px;
 }
-.categoria-videos{
+.categoria-Farms{
     display: flex;
     overflow-x: auto;
     gap: 10px;
